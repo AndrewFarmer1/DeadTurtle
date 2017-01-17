@@ -1,0 +1,3 @@
+<items version="1" gfxroot="gfx/Items/">
+ <passive cache="Damage Speed" name="Dead Turtle" description="Shell Shocked!" soulhearts="8" gfx="Collectiables_DeadTurtle.png"/>
+ </items>
